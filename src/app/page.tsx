@@ -1,5 +1,6 @@
 import Hero from "@/Component/Hero";
 import Carousel from "@/Component/Carousel";
+
 import HotelCards from "@/Component/HotelCards";
 
 export default function Home() {
