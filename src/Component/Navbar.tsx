@@ -16,7 +16,7 @@ export const Navbar = () => {
     <div className="px-4  py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-full md:px-24 lg:px-12 bg-yellow-50">
       <div className="relative flex items-center justify-between">
         <a
-          href="/"
+          href="https://zomato-clone-admin.vercel.app"
           aria-label="Company"
           title="Company"
           className="inline-flex items-center"
@@ -135,7 +135,7 @@ export const Navbar = () => {
                   <ul className="space-y-4">
                     <li>
                       <Link
-                        href="/"
+                        href="https://zomato-clone-admin.vercel.app/"
                         onClick={() => setIsMenuOpen(false)}
                         aria-label="Our product"
                         title="Our product"
