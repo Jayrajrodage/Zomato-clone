@@ -23,7 +23,7 @@ export const Navbar = () => {
         >
           <Image src="/logo.avif" width={50} height={50} alt="logo" />
           <span className="ml-2 text-4xl font-mono font-bold tracking-wide text-yellow-900 uppercase">
-            Zomato
+            Zomato Clone
           </span>
         </a>
         <ul className="flex items-center hidden space-x-8 lg:flex">
@@ -111,7 +111,7 @@ export const Navbar = () => {
                         alt="logo"
                       />
                       <span className="ml-2 text-4xl font-mono font-bold tracking-wide text-gray-800 uppercase">
-                        Zomato
+                        Zomato Clone
                       </span>
                     </a>
                   </div>
