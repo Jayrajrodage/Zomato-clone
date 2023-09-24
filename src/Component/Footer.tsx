@@ -107,12 +107,15 @@ export const Footer = () => {
         </p>
         <ul className="flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">
           <li>
-            <a
-              href="/"
-              className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-            >
-              F.A.Q
-            </a>
+            <p className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400">
+              Build with 💌 by{" "}
+              <a
+                className=" hover:underline"
+                href="https://portfolio-jayrajrodage.vercel.app/"
+              >
+                Jayraj
+              </a>
+            </p>
           </li>
           <li>
             <a
