@@ -22,16 +22,16 @@ export const Navbar = () => {
           className="inline-flex items-center"
         >
           <Image src="/logo.avif" width={50} height={50} alt="logo" />
-          <span className="ml-2 text-4xl font-mono font-bold tracking-wide text-yellow-900 uppercase">
-            Zomato
+          <span className="ml-2 text-3xl font-mono font-bold tracking-wide text-yellow-900 uppercase">
+            Zomato Clone
           </span>
         </a>
         <ul className="flex items-center hidden space-x-8 lg:flex">
           <li>
             <a
-              href="/"
-              aria-label="Our product"
-              title="Our product"
+              href="https://zomato-clone-admin.vercel.app"
+              aria-label="I've a restaurant"
+              title="I've a restaurant"
               className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
             >
               I've a restaurant
@@ -110,8 +110,8 @@ export const Navbar = () => {
                         height={50}
                         alt="logo"
                       />
-                      <span className="ml-2 text-4xl font-mono font-bold tracking-wide text-gray-800 uppercase">
-                        Zomato
+                      <span className="ml-2 text-2xl font-mono font-bold tracking-wide text-gray-800 uppercase">
+                        Zomato Clone
                       </span>
                     </a>
                   </div>
@@ -135,10 +135,10 @@ export const Navbar = () => {
                   <ul className="space-y-4">
                     <li>
                       <Link
-                        href="/"
+                        href="https://zomato-clone-admin.vercel.app/"
                         onClick={() => setIsMenuOpen(false)}
-                        aria-label="Our product"
-                        title="Our product"
+                        aria-label="I've a restaurant"
+                        title="I've a restaurant"
                         className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
                       >
                         I've a restaurant
