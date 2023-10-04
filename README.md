@@ -10,11 +10,7 @@ Welcome to the Zomato Clone Web-App project! This web application is inspired by
 - [Key Features](#key-features)
 - [Additional Features](#additional-features)
 - [Technology Stack](#technology-stack)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Contributors](#contributors)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Project Overview
 
