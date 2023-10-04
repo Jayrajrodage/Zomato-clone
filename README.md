@@ -2,14 +2,16 @@
 
 Welcome to the Zomato Clone Web-App project! This web application is inspired by the popular food delivery platform, Zomato. It offers users a seamless food discovery, ordering, and payment experience while providing restaurant owners with simplified restaurant management tools.
 
-![Zomato Clone]
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
-- [Additional Features](#additional-features)
 - [Technology Stack](#technology-stack)
+
+## Admin Dashboard
+
+You can find the admin dashboard repository for this project [https://zomato-clone-admin.vercel.app/CreateProfile](https://github.com/Jayrajrodage/zomato-admin).
 
 
 ## Project Overview
@@ -27,7 +29,7 @@ In this project, we aimed to replicate key features of Zomato, allowing users to
 - **Multi-Restaurant Platform:** Restaurant owners can manage their menus, orders, and customer reviews all in one place.
 
 - **Payment Gateway Integration:** Secure payments are made possible with Stripe, allowing users to pay for their orders online via credit card.
-- 
+  
 - **User Profiles:** Users can create and manage their profiles, including order history and payment methods.
 
 - **Restaurant Authentication:** Restaurant owners can sign in and manage their restaurant profiles, including menu items and order notifications.
