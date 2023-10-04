@@ -11,7 +11,8 @@ Welcome to the Zomato Clone Web-App project! This web application is inspired by
 
 ## Admin Dashboard
 
-You can find the admin dashboard repository for this project [https://zomato-clone-admin.vercel.app/CreateProfile](https://github.com/Jayrajrodage/zomato-admin).
+You can find the admin dashboard repository for this project **Live-:** (https://zomato-clone-admin.vercel.app/CreateProfile)
+**Repo-:** (https://github.com/Jayrajrodage/zomato-admin).
 
 
 ## Project Overview
